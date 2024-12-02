@@ -24,8 +24,8 @@ Visit @Riesyn on github, and copy the  key into your computer, or copy the files
 Install NPM commands, and run.
 
 ## Credits
-Robert Henderson https://github.com/Riesyn
-Kansas University
+Robert Henderson https://github.com/Riesyn,
+Kansas University,
 Stack Overflow
 
 ## License
